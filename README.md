@@ -2,7 +2,7 @@
 
 ## First Example
 
-Based on a frontend Server with Nginx, a middlware server with Tomcat and finaly a database server with a PostgreSQL.
+Based on a frontend Server with Nginx, a middleware with Tomcat and finally a backend server with a PostgreSQL.
 
 ## Second Example
 
